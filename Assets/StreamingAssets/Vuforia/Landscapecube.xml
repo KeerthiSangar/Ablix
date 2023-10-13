@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Landscapecube" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="Landscapecubes_assembly" assemblyId="fb7dde2d18394fc9a8aa0a3bb8f944be">
+<Part name="Landscapecube" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.0428266 -0.709795 18.5365" rotation="AD: 0.999964 0.0122551 -0.958967 181.057" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

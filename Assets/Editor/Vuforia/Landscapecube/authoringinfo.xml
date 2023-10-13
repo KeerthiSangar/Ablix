@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.17.4">
+<ModelTarget name="Landscapecube" targetId="6831047741f644d2924002026da3e9cb" version="14.0" toolVersion="10.17.4" bbox="-3.090244 -3.090244 -3.090245 3.090244 3.090244 3.090244" previewImage="6831047741f644d2924002026da3e9cb_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Landscapecubes_assembly" assemblyId="fb7dde2d18394fc9a8aa0a3bb8f944be">
+<Part name="Landscapecube" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.0428266 -0.709795 18.5365" rotation="AD: 0.999964 0.0122551 -0.958967 181.057" image="Landscapecube_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
