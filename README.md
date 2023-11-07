@@ -1,5 +1,4 @@
-# Ablix
-Task
+
 Project settings:
 It is designed for Android so please setup unity build settings to Android and make sure in player setting scripting background to il2cpp & Target Architecture  arm64  is selected
 
